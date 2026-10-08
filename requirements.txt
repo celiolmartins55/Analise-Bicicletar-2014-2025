@@ -1,3 +1,4 @@
 pip install pandas
 pip install plotly
 pip install kaleido
+pip install scipy
