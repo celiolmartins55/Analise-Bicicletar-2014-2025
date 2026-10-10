@@ -3,12 +3,15 @@ O projeto bicicletar trata-se de um serviço de Fortaleza iniciado em dezembro d
 
 Em 2026, o projeto atingiu a marca de 9 milhões de viagens. Diante disso, este repositório tem como objetivo realizar uma análise estatística dos dados disponibilizados pela Prefeitura de Fortaleza e pela AMC. Vale ressaltar que não há qualquer vínculo ou parceria entre o autor e as instituições responsáveis. Trata-se de um projeto independente, desenvolvido exclusivamente com o propósito de compor o meu portfólio profissional e adquirir experiência.
 <br/>
+
 💡 Principais achados:
+-  Uma incosistência crítica encontrada no registro do tipo de bicicleta.
 -  Diminuição da duração média de viagens.
+- 
 
-
+<br/>
 
 🗂 Estrutura do repositório:
-- 📁 Dados: Todas as tabelas utilizadas na pesquisa das quais podem ser encontradas em https://dados.fortaleza.ce.gov.br/dataset/viagens-bicicletar.
-- 📁 Notebooks: Arquivo contendo todos os códigos e saídas do Jupyter Notebook.
-- 📁 requirements.txt: Pacotes necessarios para execução dos códigos.
+- Dados: Todas as tabelas utilizadas na pesquisa das quais podem ser encontradas em https://dados.fortaleza.ce.gov.br/dataset/viagens-bicicletar.
+- Notebooks: Arquivo contendo todos os códigos e saídas do Jupyter Notebook.
+- requirements.txt: Pacotes necessarios para execução dos códigos.
