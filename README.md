@@ -4,12 +4,12 @@
 O projeto bicicletar trata-se de um serviço de Fortaleza iniciado em dezembro de 2014, que consiste no fornecimento de bicicletas compartilhadas para a população, com o fim de diminuir o congestionamento e melhorar a mobilidade urbana, assim como, oferece um meio de transporte sustentável e que melhora a saúde e qualidade de vida.
 <br/>
 
-Em 2026, o projeto atingiu a marca de 9 milhões de viagens. Diante disso, este repositório tem como objetivo realizar uma análise estatística dos dados disponibilizados pela Prefeitura de Fortaleza e pela AMC. Vale ressaltar que não há qualquer vínculo ou parceria entre o autor e as instituições responsáveis. Trata-se de um projeto independente, desenvolvido exclusivamente com o propósito de compor o meu portfólio profissional e adquirir experiência.
+Em 2026, o projeto atingiu a marca de 9 milhões de viagens. Diante disso, este repositório tem como objetivo realizar uma análise estatística dos dados disponibilizados pela Prefeitura de Fortaleza e AMC. Vale ressaltar que não há qualquer vínculo ou parceria entre o autor e as instituições responsáveis. Trata-se de um projeto independente, desenvolvido exclusivamente com o propósito de compor o meu portfólio profissional e adquirir experiência.
 <br/>
 
 💡 Principais achados:
--  Uma incosistência crítica encontrada no registro do tipo de bicicleta.
--  Diminuição da duração média de viagens. 
+-  Uma incosistência crítica foi encontrada no registro do tipo de bicicleta.
+-  Há uma diminuição significativa na duração média de viagens. 
 
 <br/>
 
